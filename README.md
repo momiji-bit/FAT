@@ -23,8 +23,6 @@ code文件夹内有三个项目，fat16 lib uselib
 
 建议使用CLion并用cmake编译
 
-Good luck! 2023-6
-
 用法：
 ``` bash
 Useage:[order] -[option]
@@ -44,3 +42,9 @@ Useage:[order] -[option]
     rm      --delete file               delete a file at current directory, example rm fs.txt
     exit    --exit                      exit this file system
 ```
+
+如果你觉得该项目不错👍，请给我一个小星星⭐我会很高兴的😀
+
+Good luck! 
+
+2023-6
