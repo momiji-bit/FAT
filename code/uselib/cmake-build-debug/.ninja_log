@@ -1,0 +1,4 @@
+# ninja log v5
+1	88	7087961445155749	build.ninja	95593e7cfabe1bf3
+1	35	7084857762293788	CMakeFiles/uselib.dir/main.c.obj	5646db51afc902ce
+35	80	7084857762714742	uselib.exe	14b6edc817c3c74

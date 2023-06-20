@@ -1,0 +1,3 @@
+D:/23year/OS/课程设计/code/uselib/cmake-build-debug/CMakeFiles/uselib.dir
+D:/23year/OS/课程设计/code/uselib/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/23year/OS/课程设计/code/uselib/cmake-build-debug/CMakeFiles/rebuild_cache.dir

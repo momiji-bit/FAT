@@ -1,0 +1,11 @@
+# ninja log v5
+57	109	7086061215962316	libXXX.dll	c3ba21ea59aa8d36
+0	73	7087960528778465	build.ninja	67b5ad071ac80fed
+1	57	7086061215460892	CMakeFiles/lib.dir/file.c.obj	1b0bba37e90328ed
+10	45	7086061215337301	CMakeFiles/lib.dir/stack.c.obj	9060dbd1b112d744
+6	53	7086061215420893	CMakeFiles/lib.dir/dir.c.obj	3ff906c212e2ff30
+12	50	7086061215390677	CMakeFiles/lib.dir/sys.c.obj	e97a7fef77bacb42
+4	48	7086061215367316	CMakeFiles/lib.dir/main.c.obj	c3881059c9e24ce8
+8	52	7086061215420893	CMakeFiles/lib.dir/disk.c.obj	feda538e0c033e6c
+57	109	7086061215962316	libXXX.dll.a	c3ba21ea59aa8d36
+1	53	7086061109481421	libXXX.lib	5e01e9f9607cf33d
