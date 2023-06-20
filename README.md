@@ -26,6 +26,7 @@ code文件夹内有三个项目，fat16 lib uselib
 Good luck! 2023-6
 
 用法：
+``` bash
 Useage:[order] -[option]
     ls      --list-files                list files and directory on current directory
     format  --format                    format this file system
@@ -42,3 +43,4 @@ Useage:[order] -[option]
     check   --check                     check all files and find virus
     rm      --delete file               delete a file at current directory, example rm fs.txt
     exit    --exit                      exit this file system
+```
