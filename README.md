@@ -15,6 +15,9 @@ FAT系统的搭建细节可以参考实验报告
 - 提供良好的界面，可以显示磁盘文件系统的状态和空间的使用情况；
 - 提供虚拟磁盘转储功能，可将信息存入磁盘，还可从磁盘读入内存；
 
+**结构**：
+![Frame](img/FAT.png)
+
 code文件夹内有三个项目，fat16 lib uselib
 
 - fat16 源代码，可以直接运行
@@ -23,7 +26,7 @@ code文件夹内有三个项目，fat16 lib uselib
 
 建议使用CLion并用cmake编译
 
-用法：
+**用法**：
 ``` bash
 Useage:[order] -[option]
     ls      --list-files                list files and directory on current directory
