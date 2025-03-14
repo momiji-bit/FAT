@@ -31,7 +31,7 @@ code文件夹内有三个项目，fat16 lib uselib
 Useage:[order] -[option]
     ls      --list-files                list files and directory on current directory
     format  --format                    format this file system
-    cd      --change-directory         change current directory, example cd ./fs/include
+    cd      --change-directory          change current directory, example cd ./fs/include
     mkdir   --make-directory            make directory in current path, example mkdir fs
     help    --help                      give this help
     close   --close                     close current opened file
